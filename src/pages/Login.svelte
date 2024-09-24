@@ -15,7 +15,7 @@
         </h3>
         <p style="font-size: 18px">
             After logging in, you will gain access to my resume.<br>
-            Here you will find an overview of my skills and completed projects. <br><br>
+            Here you will find an overview of my skills and work experience. <br><br>
             Discover my work in the fields of web development, design, and project management. <br>
             If you have any questions or would like to learn more, please don't hesitate to contact me. <br>
             Thank you for your interest!
