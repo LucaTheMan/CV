@@ -12,16 +12,16 @@
         <div class="socials">
             <h3>Socials:</h3>
             <a href="https://www.linkedin.com/in/luca-dettori-467095278/" target="_blank" class="social-link">
-                <img src="/assets/portfolioPics/linkedin.png" alt="LinkedIn" class="social-icon">
+                <img src="/assets2/portfolioPics/linkedin.png" alt="LinkedIn" class="social-icon">
             </a>
             <a href="mailto:lucadettol@gmail.com" target="_blank" class="social-link">
-                <img src="/assets/portfolioPics/gmail.png" alt="gmail" class="social-icon">
+                <img src="/assets2/portfolioPics/gmail.png" alt="gmail" class="social-icon">
             </a>
             <a href="https://www.instagram.com/lucadettori_/" target="_blank" class="social-link">
-                <img src="/assets/portfolioPics/insta.png" alt="instagram" class="social-icon">
+                <img src="/assets2/portfolioPics/insta.png" alt="instagram" class="social-icon">
             </a>
             <a href="https://www.instagram.com/lucadettori_/" target="_blank" class="social-link">
-                <img src="/assets/portfolioPics/insta.png" alt="instagram" class="social-icon">
+                <img src="/assets2/portfolioPics/insta.png" alt="instagram" class="social-icon">
             </a>
         </div>
     </div>
