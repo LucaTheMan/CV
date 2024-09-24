@@ -11,7 +11,7 @@ build:
   script:
     - npm install
     - npm run build
-    - mv dist public # Verplaats de buildbestanden naar de public map
+    - mv dist/* public/  # Verplaats de bestanden van dist naar public
   artifacts:
     paths:
       - public # Verzend de public map als artifact naar de volgende fase
