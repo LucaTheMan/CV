@@ -11,14 +11,14 @@
 
     <div class="left-half">
         <h3>
-            Welkom!
+            Welcome!
         </h3>
         <p style="font-size: 18px">
-            Na het inloggen krijgt u toegang tot mijn CV.<br>
-            Hier vindt u een overzicht van mijn vaardigheden en afgeronde projecten. <br><br>
-            Ontdek mijn werk op het gebied van webontwikkeling, design en projectbeheer. <br>
-            Als u vragen heeft of meer wilt weten, aarzel dan niet om contact met mij op te nemen. <br>
-            Bedankt voor uw interesse!
+            After logging in, you will gain access to my resume.<br>
+            Here you will find an overview of my skills and completed projects. <br><br>
+            Discover my work in the fields of web development, design, and project management. <br>
+            If you have any questions or would like to learn more, please don't hesitate to contact me. <br>
+            Thank you for your interest!
         </p>
 
     </div>
