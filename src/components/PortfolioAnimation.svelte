@@ -1,6 +1,5 @@
 <script lang="ts">
     import * as THREE from 'three';
-    import {OrbitControls} from "three/examples/jsm/controls/OrbitControls";
     import {Mesh} from "three";
     import StarAnimation from "./sharedAnimation/StarAnimation.svelte";
     import {onDestroy, onMount} from "svelte";
