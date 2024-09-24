@@ -6,7 +6,7 @@
     export let renderer: any;
     export let camera: any;
 
-    const threeJsStructure = new THREE.TextureLoader().load('src/assets/loginPics/three.png');
+    const threeJsStructure = new THREE.TextureLoader().load('/assets/loginPics/three.png');
 
     const threeJsAnimation = new THREE.Mesh(
         new THREE.BoxGeometry(4.5,4.5,4.5).rotateY(10).rotateX(12),

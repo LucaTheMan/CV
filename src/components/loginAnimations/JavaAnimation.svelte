@@ -6,7 +6,7 @@
     export let renderer: any;
     export let camera: any;
 
-    const JavaStructure = new THREE.TextureLoader().load('src/assets/loginPics/javaLogo.png');
+    const JavaStructure = new THREE.TextureLoader().load('/assets/loginPics/javaLogo.png');
 
     const javaAnimation = new THREE.Mesh(
         // new THREE.SphereGeometry(2.5).rotateY(10).rotateX(5.7),

@@ -6,7 +6,7 @@
     export let renderer: any;
     export let camera: any;
 
-    const htmlStructure = new THREE.TextureLoader().load('src/assets/loginPics/htmlLogo.png');
+    const htmlStructure = new THREE.TextureLoader().load('/assets/loginPics/htmlLogo.png');
 
     const htmlAnimation = new THREE.Mesh(
         // new THREE.SphereGeometry(2.5).rotateY(10).rotateX(5.7),

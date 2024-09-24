@@ -9,35 +9,35 @@
     const skillPoints: SkillPoint[] = [];
     const workexperience: Workexperience[] = [];
 
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/threeJs.png',"ThreeJs",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/threeJs.png',"ThreeJs",
         'I have developed everything you see in the background with ThreeJs. So I got a bit of experience with it',
         'linear-gradient(315deg, #ffbc00, #ff0058)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/nodeJs.png',"NodeJs",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/nodeJs.png',"NodeJs",
         'In my first and second year I had to develop a website, the backend was written in NodeJs & Express',
         'linear-gradient(315deg, #03a9f4, #ff0058)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/svelte.png',"Svelte",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/svelte.png',"Svelte",
         'In my second year I had to develop an auction site in svelte. The website you are on now is also built with svelte',
         'linear-gradient(315deg, #4dff03, #00d0ff)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/java.png',"Java",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/java.png',"Java",
         'I am fluent in Java due to the fact that it is the first language you learn in University. I have built a chat application and a game in Java for school projects',
         'linear-gradient(315deg, #005AA7, #FFFDE4)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/javascript.png',"Javascript",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/javascript.png',"Javascript",
         'Javascript was my second programming language. I have used it in my previous school projects and on the website you are now',
         'linear-gradient(315deg, #FF0099, #493240)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/css.png',"Css",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/css.png',"Css",
         "With all the websites I've made I used css to style it. This site is also using CSS",
         'linear-gradient(315deg, #02AAB0, #00CDAC)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/capcut.png',"CapCut",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/capcut.png',"CapCut",
         "I am very proficient and know my way through CapCut. I use this app to edit videos for TikTok and other social media platforms",
         'linear-gradient(315deg, #403B4A,#E7E9BB)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/tiktok.png',"TikTok",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/tiktok.png',"TikTok",
         "I post various podcast clips on my TikTok page and in the past year I got over 20 million views on my channel",
         'linear-gradient(315deg, #314755,#26a0da)'));
-    skillPoints.push(new SkillPoint('src/assets/portfolioPics/wordpress.png',"WordPress",
+    skillPoints.push(new SkillPoint('/assets/portfolioPics/wordpress.png',"WordPress",
         "During my minor I've worked with WordPress to build a partner website for bol.com. In this minor I also learned SEO,SEA and Google Analytics",
         'linear-gradient(315deg, #F4D03F,#16A085)'));
 
-    workexperience.push(new Workexperience('src/assets/portfolioPics/weLocalize.png','WeLocalize',
+    workexperience.push(new Workexperience('/assets/portfolioPics/weLocalize.png','WeLocalize',
         "I am currently employed at WeLocalize, where I focus on data annotation for machine learning purposes.\n\n" +
         "Key Responsibilities:\n" +
         "• Labeling data in target languages for various machine learning tasks, conducting research as needed.\n" +
@@ -46,7 +46,7 @@
         "• Meeting established productivity and quality benchmarks.\n" +
         "• Promptly identifying and reporting any issues or bugs."));
 
-    workexperience.push(new Workexperience('src/assets/portfolioPics/youngones.png','YoungOnes',
+    workexperience.push(new Workexperience('/assets/portfolioPics/youngones.png','YoungOnes',
         "YoungOnes is a freelance platform that enables businesses to hire freelancers for various assignments. " +
         "Since 2022, I have been active on this platform, completing assignments for a wide range of companies across different sectors. " +
         "My roles have ranged from logistical support to promotional activities and customer service, depending on the needs of the client. " +
@@ -61,7 +61,7 @@
         "and adapting to the specific requirements and demands of different clients."));
 
 
-    workexperience.push(new Workexperience('src/assets/portfolioPics/ctn.png','CTN',
+    workexperience.push(new Workexperience('/assets/portfolioPics/ctn.png','CTN',
         'During the COVID-19 pandemic, I worked at CovidTestNederland, where I held dual roles as both an administrative employee and a tester. ' +
         'In addition to managing the testing process, I was responsible for handling administrative tasks to ensure smooth operations. \n\n Over time, ' +
         'I took on a leadership role, overseeing the entire testing and administrative workflow, ensuring the efficiency ' +

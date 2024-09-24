@@ -10,7 +10,7 @@
     export let rotateY: number = 0;
 
 
-    const robotTexture = new THREE.TextureLoader().load('src/assets/loginPics/robot.png');
+    const robotTexture = new THREE.TextureLoader().load('/assets/loginPics/robot.png');
 
     const robot = new THREE.Mesh(
         new THREE.CapsuleGeometry(2,2,4).rotateY(rotateY),

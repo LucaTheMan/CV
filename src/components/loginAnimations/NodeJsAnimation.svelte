@@ -7,7 +7,7 @@
     export let camera: any;
 
 
-    const nodeStructure = new THREE.TextureLoader().load('src/assets/loginPics/nodeLogo.png');
+    const nodeStructure = new THREE.TextureLoader().load('/assets/loginPics/nodeLogo.png');
 
     const nodeAnimation = new THREE.Mesh(
         // new THREE.SphereGeometry(2.5).rotateY(10).rotateX(5.7),
