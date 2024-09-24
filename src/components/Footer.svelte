@@ -20,9 +20,7 @@
             <a href="https://www.instagram.com/lucadettori_/" target="_blank" class="social-link">
                 <img src="/src/assets/portfolioPics/insta.png" alt="instagram" class="social-icon">
             </a>
-            <a href="https://www.instagram.com/lucadettori_/" target="_blank" class="social-link">
-                <img src="/src/assets/portfolioPics/insta.png" alt="instagram" class="social-icon">
-            </a>
+
         </div>
     </div>
 
