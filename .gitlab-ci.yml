@@ -11,8 +11,8 @@ build:
   script:
     - npm install
     - npm run build
-    - rm -rf public/*  # Verwijder alle bestanden in de public map
-    - mv dist/* public/  # Verplaats de bestanden van dist naar public
+#    - rm -rf public/*  # Verwijder alle bestanden in de public map
+    - mv dist public # Verplaats de buildbestanden naar de public map
   artifacts:
     paths:
       - public # Verzend de public map als artifact naar de volgende fase
